@@ -1,4 +1,4 @@
-#The link to test this app is https://react-course-social-media-app.web.app/
+# The link to test this app is https://react-course-social-media-app.web.app/
 
 # Getting Started with Create React App
 
